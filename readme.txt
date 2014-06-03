@@ -30,14 +30,14 @@ Example: FourDimGrating2png_HW([5 17 25;-26 -19 -9;2 19 33;4 -17 -9],3,3,1,'o3p3
 
 
 
-    This file is part of fastSIM_GratingSearchforSLM.
+    This file is part of GratingPatternGenerationAlgorithm.
 
-    fastSIM_GratingSearchforSLM is free software: you can redistribute it and/or modify
+    GratingPatternGenerationAlgorithm is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    fastSIM_GratingSearchforSLM is distributed in the hope that it will be useful,
+    GratingPatternGenerationAlgorithm is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
