@@ -1,0 +1,33 @@
+GratingParameters=[5 17 25 26 19 9;-26 -19 -9 5 17 25;2 19 33 30 17 9;4 -17 -9 3 19 33]
+
+1. PhaseStep=[-0.5238 -2.618 1.571]
+1. equiPhaseStepDiv=[-2.094 -2.094]
+2. PhaseStep=[-0.5238 -2.618 1.571]
+2. equiPhaseStepDiv=[-2.094 -2.094]
+3. PhaseStep=[-0.5238 -2.618 1.571]
+3. equiPhaseStepDiv=[-2.094 -2.094]
+grating1
+AllowedPhaseStepinVertical= 2  2  2  3  3  
+AllowedPhaseStepinHorizontal= 2 2 3 3 
+AllowedMinimumPhaseStep= 10.000000  degree 
+grating2
+AllowedPhaseStepinVertical= 2  2  2  3  3  
+AllowedPhaseStepinHorizontal= 2 2 2 3 3 
+AllowedMinimumPhaseStep= 10.000000  degree 
+grating3
+AllowedPhaseStepinVertical= 2  2  2  3  3  
+AllowedPhaseStepinHorizontal= 2 2 2 
+AllowedMinimumPhaseStep= 10.000000  degree 
+grating4
+AllowedPhaseStepinVertical= 2  2  3  3  
+AllowedPhaseStepinHorizontal= 2 2 2 3 3 
+AllowedMinimumPhaseStep= 10.000000  degree 
+grating5
+AllowedPhaseStepinVertical= 2  2  2  3  3  
+AllowedPhaseStepinHorizontal= 2 2 2 3 3 
+AllowedMinimumPhaseStep= 10.000000  degree 
+grating6
+AllowedPhaseStepinVertical= 2  2  2  
+AllowedPhaseStepinHorizontal= 2 2 2 3 3 
+AllowedMinimumPhaseStep= 10.000000  degree 
+
