@@ -13,11 +13,11 @@
 
 
 % The following parameters have to be defined manually as in this example
-% para.axmax=40;
-% para.aymax=40;
-% para.bxmax=40;
+% para.axmax=28;   % large number is required for 6 Numdir, eg. 40
+% para.aymax=28;   % large number is required for 6 Numdir, eg. 40
+% para.bxmax=28;   % large number is required for 6 Numdir, eg. 40
 % para.bxmin=2;
-% para.bymax=40;
+% para.bymax=28;   % large number is required for 6 Numdir, eg. 40
 % para.bymin=2;
 
 % 2014 May, Hui-Wen Lu-Walther, Ronny Foerster
