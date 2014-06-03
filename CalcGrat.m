@@ -12,7 +12,7 @@
 % Numdir: 3 or 6 orientations of gratings
 
 
-% The following parameters have to be defined manually as in this example
+% The following boundaries parameters have to be defined manually as in this example
 % para.axmax=28;   % large number is required for 6 Numdir, eg. 40
 % para.aymax=28;   % large number is required for 6 Numdir, eg. 40
 % para.bxmax=28;   % large number is required for 6 Numdir, eg. 40
